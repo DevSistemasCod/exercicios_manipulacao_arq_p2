@@ -13,9 +13,9 @@
  
 Segue exemplo de conteúdo.      
 123, 1, camiseta, G, 30.90<br/>
-321, 2, camisa, 4, 50.25_
-456, 1, calça, 42, 120.00
-654, 5, blusa, M, 100.00
+321, 2, camisa, 4, 50.25<br/>
+456, 1, calça, 42, 120.00<br/>
+654, 5, blusa, M, 100.00<br/>
 
 Ao final, exiba o conteúdo do ArryList em tela.
 
